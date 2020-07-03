@@ -1,0 +1,76 @@
+
+INFO :: 2020-07-03 at 06:19:09.716 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:19:09.718 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 06:19:09.720 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:20:40.293 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:20:40.294 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 06:20:40.294 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:33:56.592 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:33:56.592 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:33:56.593 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 06:34:41.905 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 06:34:41.914 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:34:41.914 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:35:03.203 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 06:35:03.204 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:35:03.205 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:38:55.921 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:38:55.923 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 06:38:55.924 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:40:03.136 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 06:40:03.147 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:40:03.147 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:41:54.659 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:41:54.662 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 06:41:54.664 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:45:24.429 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 06:45:24.455 EAT ~~~ Generating THUMBNAIL
+
+INFO :: 2020-07-03 at 06:45:24.455 EAT ~~~ Generating STREAMABLEHSL
+
+ERROR :: 2020-07-03 at 06:45:24.470 EAT ~~~ Process THUMBNAIL terminated :- /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv] does not exist
+
+INFO :: 2020-07-03 at 07:55:19.762 EAT ~~~ Generating SPRINT
+
+INFO :: 2020-07-03 at 07:55:19.761 EAT ~~~ Generating STREAMABLEHSL
+
+INFO :: 2020-07-03 at 07:55:19.775 EAT ~~~ Generating THUMBNAIL
+
+ERROR :: 2020-07-03 at 07:55:19.791 EAT ~~~ Process THUMBNAIL of /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv] terminated :- java.io.IOException: Cannot run program "ffmpeg -i  /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv].mkv -an -ss 00:00:05 -r 1 -vframes 1 -y -s 320x240 thumbnail%d.jpg ": error=2, No such file or directory
+
+ERROR :: 2020-07-03 at 07:55:19.792 EAT ~~~ Process STREAMABLEHSL of /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv] terminated :- java.io.IOException: Cannot run program "C:\ffmpeg\bin\ffmpeg": error=2, No such file or directory
+
+INFO :: 2020-07-03 at 07:57:51.102 EAT ~~~ Generating SPRINT of /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv]
+
+INFO :: 2020-07-03 at 07:57:51.106 EAT ~~~ Generating THUMBNAIL of /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv]
+
+INFO :: 2020-07-03 at 07:57:51.106 EAT ~~~ Generating STREAMABLEHSL of /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv]
+
+ERROR :: 2020-07-03 at 07:57:51.116 EAT ~~~ Process THUMBNAIL of /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv] terminated :- java.io.IOException: Cannot run program "ffmpeg -i  /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv].mkv -an -ss 00:00:05 -r 1 -vframes 1 -y -s 320x240 thumbnail%d.jpg ": error=2, No such file or directory
+
+ERROR :: 2020-07-03 at 07:57:51.116 EAT ~~~ Process STREAMABLEHSL of /home/kennan/Downloads/Insecure.S04E04.INTERNAL.480p.x264-mSD[eztv] terminated :- java.io.IOException: Cannot run program "C:\ffmpeg\bin\ffmpeg": error=2, No such file or directory
